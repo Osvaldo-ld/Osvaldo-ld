@@ -1,58 +1,92 @@
-![Banner](https://your-custom-banner-link.com/banner.png)
+![Banner](https://i.imgur.com/U7G84Gp.png)
 
-# 👋 Hola, soy Zack
+<h1 align="center">Hey, soy Zack 🖤</h1>
 
-Soy desarrollador full stack con pasión por crear experiencias digitales impactantes. Me enfoco en diseño UI/UX, desarrollo web moderno y soluciones eficientes que combinan tecnología y creatividad.
+<p align="center">
+  Desarrollador Full Stack | UX/UI Designer | Apasionado por la tecnología y la creatividad
+</p>
 
----
-
-## 🚀 Tecnologías y herramientas
-
-### 👨‍💻 Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### 🛠 Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 🧰 Herramientas:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-ZackDev.tech-%2300DFD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email-zack.dev%40email.com-%2300DFD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ZackLinkedIn-%2300DFD8?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📁 Repositorios destacados
+## 🚀 Sobre mí
 
-### 🎨 Portfolio Personal
-[![Ver proyecto](https://img.shields.io/badge/-Live%20Demo-38B2AC?style=flat)](https://miportfolioweb.com)
-
-### 🧵 Tienda de Ropa Online
-[![Ver proyecto](https://img.shields.io/badge/-Ecommerce%20Demo-38B2AC?style=flat)](https://mitiendaonline.com)
-
-### 💬 App de Chat Tiempo Real
-[![Ver proyecto](https://img.shields.io/badge/-ChatApp%20Demo-38B2AC?style=flat)](https://chatappdemo.com)
-
----
-
-## 📊 Stats de GitHub
-![Zack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osvaldo-ld&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osvaldo-ld&layout=compact&theme=tokyonight)
+```ts
+const Zack = {
+  pronombres: "él/they",
+  ubicacion: "Argentina",
+  stack: ["JavaScript", "React", "Next.js", "Node.js", "Figma"],
+  meApasiona: ["Crear experiencias increíbles", "Automatizar procesos", "Aprender cada día"],
+  buscandoTrabajo: true,
+  contacto: "📩 Mandame un mensaje y charlamos!"
+};
+```
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tecnologías que uso
 
-- 📧 zack.dev@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 🌐 [Portfolio](https://miportfolioweb.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,figma,html,css,tailwind,git,github" />
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🎨 Zack Portfolio
+> Portfolio personal con diseño futurista y animaciones suaves.
+
+<p>
+  🔗 [Ver Demo](https://zackdev.tech) | 📁 [Repositorio](https://github.com/zackdev/portfolio)
+</p>
 
 ---
 
-> "La creatividad es la inteligencia divirtiéndose." – Albert Einstein
+### 🛍️ ZackStore (E-commerce)
+> Tienda con login, panel de admin, pasarela de pagos y carrito animado.
+
+<p>
+  🔗 [Ver Demo](https://zackstore.vercel.app) | 📁 [Repositorio](https://github.com/zackdev/zackstore)
+</p>
 
 ---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zackdev&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zackdev&theme=radical&border_radius=6.5" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackdev&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## 🤝 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zackdev"><img src="https://img.shields.io/badge/LinkedIn-Connect-%2300DFD8?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:zack.dev@email.com"><img src="https://img.shields.io/badge/Email-Contact-%2300DFD8?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center">✨ ¡Gracias por visitar mi perfil! ✨</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+universo+Tech+💻;Hablemos+de+ideas+y+código...&center=true&width=500&height=45" />
+</p>
+
+---
+
